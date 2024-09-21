@@ -12,6 +12,6 @@ const res=await client.fetch(query);
 
   return (
     
-    <div> Book   </div>
+    <> Book   </>
   );
 }
